@@ -21,10 +21,10 @@ python -m streamlit run app.py
 ## 🔹 Screenshots
 
 ### 📸 Dashboard
-![Dashboard](screentwo/screen2.jpeg)
+![Dashboard](screen2.jpeg)
 
 ### 📈 Chart
-![Chart](screenone/screen1.jpeg)
+![Chart](screen1.jpeg)
 
 ## 🔹 Author
 
@@ -33,7 +33,7 @@ python -m streamlit run app.py
 ## 🔹 Diagrams
 
 ### 🧱 System Design
-![Diagrams](Diagram/Diagrams.png)
+![Diagrams](Diagrams.png)
 
 ## Report 
-[View Report](report/Report.pdf)
+[View Report](Report.pdf)
